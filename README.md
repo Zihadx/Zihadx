@@ -71,7 +71,7 @@ I’m currently open to **remote job opportunities** and always looking to expan
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zihadx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="170" alt="languages graph" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihadx&theme=neon" style="width: 100%; height: 200px; object-fit: cover;" />
 </div>
 
