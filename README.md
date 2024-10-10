@@ -34,14 +34,17 @@ I’m on a mission to **master both software development** and **cybersecurity**
 <div align="center">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-    <img src="https://img.shields.io/badge/Magic%20UI-blue?style=for-the-badge&logo=magic-ui&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ancestor%20UI-purple?style=for-the-badge&logo=ancestor-ui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Magic%20UI-blue?style=for-the-badge&logo=magic-the-gathering&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ancestor%20UI-purple?style=for-the-badge&logo=matrix&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20Hook%20Form-E34F26?style=for-the-badge&logo=react-hook-form&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swiper.js-000000?style=for-the-badge&logo=swiper&logoColor=white" />
-    <img src="https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react-icons&logoColor=black" />
-    <img src="https://img.shields.io/badge/Sonner%20Toast-FF5630?style=for-the-badge&logo=sonner-toast&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/OAuth-3A3A3A?style=for-the-badge&logo=oauth&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Sonner%20Toast-FF5630?style=for-the-badge&logo=chakraui&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=airbnb&logoColor=white" />
 </div>
 
 ---
@@ -63,17 +66,21 @@ I’m currently open to **remote job opportunities** and always looking to expan
 
 ### 📊 **GitHub Stats**
 
-<div style="display: flex; justify-content: space-between ; gap: 10px">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zihadx&show_icons=true&theme=radical" style="width: 45%; height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihadx&layout=compact&theme=radical" style="width: 45%; height: 200px;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zihadx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=neon&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zihadx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="170" alt="languages graph" />
 </div>
-<div style="margin-top: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihadx&theme=radical" style="width: 100%; height: 200px; object-fit: cover;" />
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihadx&theme=neon" style="width: 100%; height: 200px; object-fit: cover;" />
 </div>
 
 ---
 
 ### 🌐 **Connect with Me:**
-- **[Portfolio](https://nur-zihad.netlify.app)**
-- **[LinkedIn](https://www.linkedin.com/in/nur-zihad)**
-- **[Email](mailto:nurzihad.info@gmail.com)**
+
+
+- <a href="https://nur-zihad.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23005ab2.svg?style=for-the-badge&logo=font-awesome&logoColor=white" /></a>
+- <a href="https://www.linkedin.com/in/nur-zihad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- <a href="mailto:nurzihad.info@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23dd4c41.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
