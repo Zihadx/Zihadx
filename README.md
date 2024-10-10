@@ -3,10 +3,10 @@
 ### Passionate Front-End Developer | Tech Enthusiast | Knowledge Explorer | Aspiring Senior Software Developer with Cybersecurity Expertise
 
 **I specialize in:**
-- Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Node.js, Next.js, Express.js, Redux
+- Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Node.js, Next.js, Express.js, Redux, Material UI (MUI)
 - NoSQL Databases
 
-I’m on a mission to **master both software development** and **cybersecurity** to become a Senior Software Developer. As I continue to enhance my technical skills, I'm driven to build secure, scalable applications and tackle modern cybersecurity challenges. Let's build creative web solutions together and make an impact!
+I’m on a mission to **master both software development** and **cybersecurity** to become a Senior Software Developer. As I continue to enhance my technical skills, I'm driven to build secure, scalable applications and tackle modern challenges in the tech industry. Let's build creative web solutions together and make an impact!
 
 ---
 
@@ -21,6 +21,7 @@ I’m on a mission to **master both software development** and **cybersecurity**
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
     <img src="https://img.shields.io/badge/NoSQL-232F3E?style=for-the-badge&logo=nosql&logoColor=white" />
 </div>
 
@@ -34,6 +35,11 @@ I’m on a mission to **master both software development** and **cybersecurity**
     <img src="https://img.shields.io/badge/Magic%20UI-blue?style=for-the-badge&logo=magic-ui&logoColor=white" />
     <img src="https://img.shields.io/badge/Ancestor%20UI-purple?style=for-the-badge&logo=ancestor-ui&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20Hook%20Form-E34F26?style=for-the-badge&logo=react-hook-form&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swiper.js-000000?style=for-the-badge&logo=swiper&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react-icons&logoColor=black" />
+    <img src="https://img.shields.io/badge/Sonnet%20Toast-FF5630?style=for-the-badge&logo=sonert-toast&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" />
 </div>
 
 ---
@@ -41,7 +47,7 @@ I’m on a mission to **master both software development** and **cybersecurity**
 ### 🌟 **About Me**
 
 I am a **curious explorer** on a mission to master code and technology. My expertise lies in:
-- **Creative web solutions** with a focus on delivering high-quality projects on time and under budget.
+- **Creative web solutions** focusing on delivering high-quality projects on time and under budget.
 - **Effective communication and collaboration** with clients and team members.
 - **Staying updated with industry trends** and providing innovative solutions that drive growth and success.
 
@@ -56,4 +62,4 @@ I’m currently open to **remote job opportunities** and always looking to expan
 ### 🌐 **Connect with Me:**
 - **[Portfolio](https://nur-zihad.netlify.app)**
 - **[LinkedIn](https://www.linkedin.com/in/nur-zihad)**
-- **[Email](nurzihad.info@gmail.com)**
+- **[Email](mailto:nurzihad.info@gmail.com)**
