@@ -61,6 +61,18 @@ I’m currently open to **remote job opportunities** and always looking to expan
 
 ---
 
+### 📊 **GitHub Stats**
+
+<div style="display: flex; justify-content: space-between ; gap: 10px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zihadx&show_icons=true&theme=radical" style="width: 45%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihadx&layout=compact&theme=radical" style="width: 45%; height: 200px;" />
+</div>
+<div style="margin-top: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihadx&theme=radical" style="width: 100%; height: 200px; object-fit: cover;" />
+</div>
+
+---
+
 ### 🌐 **Connect with Me:**
 - **[Portfolio](https://nur-zihad.netlify.app)**
 - **[LinkedIn](https://www.linkedin.com/in/nur-zihad)**
