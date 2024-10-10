@@ -3,7 +3,7 @@
 ### Passionate Front-End Developer | Tech Enthusiast | Knowledge Explorer | Aspiring Senior Software Developer with Cybersecurity Expertise
 
 **I specialize in:**
-- Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Node.js, Next.js, Express.js, Redux, Material UI (MUI)
+- Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Node.js, Next.js, Express.js, Redux, Material UI (MUI), JWT, Bcrypt
 - NoSQL Databases
 
 I’m on a mission to **master both software development** and **cybersecurity** to become a Senior Software Developer. As I continue to enhance my technical skills, I'm driven to build secure, scalable applications and tackle modern challenges in the tech industry. Let's build creative web solutions together and make an impact!
@@ -23,6 +23,8 @@ I’m on a mission to **master both software development** and **cybersecurity**
     <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
     <img src="https://img.shields.io/badge/NoSQL-232F3E?style=for-the-badge&logo=nosql&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bcrypt-E34F26?style=for-the-badge&logo=undefined&logoColor=white" />
 </div>
 
 ---
@@ -37,7 +39,7 @@ I’m on a mission to **master both software development** and **cybersecurity**
     <img src="https://img.shields.io/badge/React%20Hook%20Form-E34F26?style=for-the-badge&logo=react-hook-form&logoColor=white" />
     <img src="https://img.shields.io/badge/Swiper.js-000000?style=for-the-badge&logo=swiper&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20Icons-61DAFB?style=for-the-badge&logo=react-icons&logoColor=black" />
-    <img src="https://img.shields.io/badge/Sonnet%20Toast-FF5630?style=for-the-badge&logo=sonert-toast&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sonner%20Toast-FF5630?style=for-the-badge&logo=sonner-toast&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" />
 </div>
