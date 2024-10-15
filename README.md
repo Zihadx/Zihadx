@@ -80,7 +80,7 @@ I’m currently open to **remote job opportunities** and always looking to expan
 ### 🌐 **Connect with Me:**
 
 
-- <a href="https://nur-zihad.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23005ab2.svg?style=for-the-badge&logo=font-awesome&logoColor=white" /></a>
+- <a href="https://nuzihad.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23005ab2.svg?style=for-the-badge&logo=font-awesome&logoColor=white" /></a>
 - <a href="https://www.linkedin.com/in/nur-zihad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - <a href="mailto:nurzihad.info@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23dd4c41.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
