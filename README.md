@@ -54,7 +54,7 @@ I’m on a mission to **master both software development** and **cybersecurity**
 I am a **curious explorer** on a mission to master code and technology. My expertise lies in:
 - **Creative web solutions** focusing on delivering high-quality projects on time and under budget.
 - **Effective communication and collaboration** with clients and team members.
-- **Staying updated with industry trends** and providing innovative solutions that drive growth and success.
+- **Staying updated with industry trends** and providing innovative solutions that drive growth and company success.
 
 ---
 
