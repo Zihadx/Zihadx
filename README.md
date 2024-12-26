@@ -3,7 +3,7 @@
 ### Passionate Front-End Developer | Tech Enthusiast | Knowledge Explorer | Aspiring Senior Software Developer with Cybersecurity Expertise
 
 **I specialize in:**
-- Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Node.js, Next.js, Express.js, Redux, Material UI (MUI), JWT, Bcrypt
+- Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Node.js, Next.js, Express.js, Redux, Material UI (MUI), Firebase, JWT, Bcrypt
 - NoSQL Databases
 
 I’m on a mission to **master both software development** and **cybersecurity** to become a Senior Software Developer. As I continue to enhance my technical skills, I'm driven to build secure, scalable applications and tackle modern challenges in the tech industry. Let's build creative web solutions together and make an impact!
