@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Nur Zihad!**
 
-### Passionate Front-End Developer | Tech Enthusiast | Knowledge Explorer | Aspiring Senior Software Developer with Cybersecurity Expertise
+### Passionate Full Stack Developer | Tech Enthusiast | Knowledge Explorer | Aspiring Senior Software Developer with Cybersecurity Expertise
 
 **I specialize in:**
 - Tailwind CSS, Bootstrap, JavaScript, TypeScript, React.js, Node.js, Next.js, Express.js, Redux, Material UI (MUI), Firebase, JWT, Bcrypt
