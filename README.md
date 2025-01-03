@@ -7,7 +7,7 @@
 - NoSQL Databases
 
 A passionate Full Stack Developer with a mission to master both software development and cybersecurity, driven to build secure, scalable, and impactful web solutions. Skilled in creating innovative and functional web applications, I excel at merging creativity with robust technical expertise. My goal is to tackle modern challenges in the tech industry while continuously refining my skills through collaboration and mentorship. Dedicated to enhancing application security and functionality, I am eager to contribute to your organization's growth and success.
-**Highlights:**  
+  
 - Expertise in full-stack development with a passion for mastering complex coding challenges.  
 - Proven ability to design secure, scalable, and user-friendly applications.  
 - Strong commitment to **honesty, creativity, and innovation**.  
