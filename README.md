@@ -2,11 +2,11 @@
 
 ### Passionate Full Stack Developer | Tech Enthusiast | Knowledge Explorer | Aspiring Senior Software Developer with Cybersecurity Expertise | Aspiring Entrepreneur
 
-**I specialize in:**
+**I specialise in:**
 - Tailwind CSS, Bootstrap, JavaScript, ES6, TypeScript, React.js, Node.js, Next.js, Express.js, Redux, Material UI (MUI), Firebase, Supabase, JWT, Bcrypt
 - NoSQL Databases
 
-A passionate Full Stack Developer with a mission to master both software development and cybersecurity, driven to build secure, scalable, and impactful web solutions. Skilled in creating innovative and functional web applications, I excel at merging creativity with robust technical expertise. My goal is to tackle modern challenges in the tech industry while continuously refining my skills through collaboration and mentorship. Dedicated to enhancing application security and functionality, I am eager to contribute to your organization's growth and success.
+A passionate Full Stack Developer with a mission to master both software development and cybersecurity, driven to build secure, scalable, and impactful web solutions. Skilled in creating innovative and functional web applications, I excel at merging creativity with robust technical expertise. My goal is to tackle modern challenges in the tech industry while continuously refining my skills through collaboration and mentorship. Dedicated to enhancing application security and functionality, I am eager to contribute to your organisation's growth and success.
   
 - Expertise in full-stack development with a passion for mastering complex coding challenges.  
 - Proven ability to design secure, scalable, and user-friendly applications.  
