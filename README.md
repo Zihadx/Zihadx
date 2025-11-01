@@ -1,16 +1,11 @@
-<!-- ⚡ ULTRA-PREMIUM | SIGNATURE GITHUB PROFILE | NUR ZIHAD -->
 
-<!-- Banner / Hero Section -->
-<div align="center">
-  <img src="https://readme-hero.vercel.app/api?title=Nur%20Zihad&subtitle=Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20Visionary%20Builder&gradient=linear-gradient(135deg,#00F5D4,#0EA5E9,#6366F1)&font=Fira%20Code&center=true&size=40" alt="Nur Zihad Header" width="100%" />
-</div>
 
----
+<h1 align="center">👋 Hey there, I'm <span style="color:#00D8FF;">Nur Zihad</span></h1>
 
-<h2 align="center">🧬 I Build the Future, One Line of Code at a Time</h2>
+<h3 align="center">🚀 Full Stack Developer | Tech Explorer | Cybersecurity Enthusiast | Aspiring Entrepreneur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00F5D4&center=true&vCenter=true&width=800&lines=Creating+Ultra+Modern+Digital+Experiences.;Engineering+Security+%26+Performance.;Transforming+Ideas+into+Immortal+Code.;Exploring+the+Intersection+of+Art+and+Technology.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+Secure+and+Scalable+Web+Solutions;Bringing+Ideas+to+Life+with+Code;Passionate+about+Cybersecurity+%26+Innovation;Always+Learning+and+Pushing+Boundaries" alt="Typing SVG" />
 </p>
 
 ---
@@ -61,44 +56,31 @@ I don’t follow trends — I **architect them**. Every line of code should *bre
 
 ---
 
-### 📊 GitHub Universe
+## 📊 GitHub Analytics
 
 <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Zihadx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00F5D4&title_color=00F5D4" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihadx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00F5D4&title_color=00F5D4" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zihadx&show_icons=true&theme=react&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4&hide_border=true" height="165px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihadx&layout=compact&theme=react&bg_color=0d1117&title_color=00F5D4&hide_border=true" height="165px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihadx&theme=react&hide_border=true&background=0d1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="180px" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihadx&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="180" />
 </div>
 
 ---
 
-### 🪩 Visual Touch (Signature Glow)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zihadx/Zihadx/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 🌐 Connect with Me
+## 🤝 Let’s Connect
 
 <div align="center">
-  <a href="https://nzihad.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=000" />
-  </a>
-  <a href="https://www.linkedin.com/in/nur-zihad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00F5D4?style=for-the-badge&logo=linkedin&logoColor=000" />
-  </a>
-  <a href="mailto:nurzihad.info@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-00F5D4?style=for-the-badge&logo=gmail&logoColor=000" />
-  </a>
+  <a href="https://nzihad.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/nur-zihad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nurzihad.info@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
-<h3 align="center">✨ “Vision without execution is just imagination. I code the vision.” ✨</h3>
+<h4 align="center">✨ “Turning ideas into impactful digital experiences.” ✨</h4>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
