@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00D8FF;">Nur Zihad</span></h1>
 
-<h3 align="center">🚀 Full Stack Developer | Tech Explorer | Cybersecurity Enthusiast | Aspiring Entrepreneur</h3>
+<h3 align="center">🚀 Next.js & React Developer — Secure Dashboards, Auth Systems & SaaS MVPs for Startups</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+Secure+and+Scalable+Web+Solutions;Bringing+Ideas+to+Life+with+Code;Passionate+about+Cybersecurity+%26+Innovation;Always+Learning+and+Pushing+Boundaries" alt="Typing SVG" />
@@ -12,10 +12,9 @@
 
 ### 🌌 About Me
 
-> *A developer forged in the chaos of curiosity — I don’t just write code; I craft digital art that performs, protects, and inspires.*
+> *I build SaaS MVPs, dashboards, and full-stack web apps for startups and small businesses using Next.js, React, and TypeScript.*
 
-Hi, I’m **Nur Zihad**, a **Full Stack Developer** and **Cybersecurity Enthusiast** with a vision to engineer **secure, scalable, and aesthetic** web experiences.  
-I merge design sense, backend logic, and modern security practices to build web apps that feel **alive** — fluid, intelligent, and beautifully precise.
+Most early-stage founders don't need a huge dev team — they need one person who can take a rough idea, scope it realistically, and ship something usable in weeks. That's what I do.
 
 💎 **Philosophy:**  
 I don’t follow trends — I **architect them**. Every line of code should *breathe purpose* and every product should *inspire trust*.
