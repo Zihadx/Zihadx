@@ -12,7 +12,7 @@
 
 ### 🌌 About Me
 
-> *I build SaaS MVPs, dashboards, and full-stack web apps for startups and small businesses using Next.js, React, and TypeScript.*
+> *I help SaaS startups and small businesses launch faster by building production-ready full-stack web apps with scalable dashboards, secure authentication, seamless API integrations, and payment integrations.*
 
 Most early-stage founders don't need a huge dev team — they need one person who can take a rough idea, scope it realistically, and ship something usable in weeks. That's what I do.
 
