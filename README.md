@@ -1,11 +1,9 @@
-
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#00D8FF;">Nur Zihad</span></h1>
-
-<h3 align="center">🚀 Next.js & React Developer — Secure Dashboards, Auth Systems & SaaS MVPs for Startups</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Zihadx/Zihadx@main/hero-banner.svg" width="100%" alt="Nur Zihad — Software Engineer — Secure Dashboards, Auth Systems, SaaS MVPs" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+Secure+and+Scalable+Web+Solutions;Bringing+Ideas+to+Life+with+Code;Passionate+about+Cybersecurity+%26+Innovation;Always+Learning+and+Pushing+Boundaries" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=64E6D3&center=true&vCenter=true&width=650&lines=Secure+Dashboards+%C2%B7+Auth+Systems+%C2%B7+RBAC;SaaS+MVPs+for+Startups;Idea+%E2%86%92+Architecture+%E2%86%92+Interface+%E2%86%92+Production" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,8 +14,8 @@
 
 Most early-stage founders don't need a huge dev team — they need one person who can take a rough idea, scope it realistically, and ship something usable in weeks. That's what I do.
 
-💎 **Philosophy:**  
-I don’t follow trends — I **architect them**. Every line of code should *breathe purpose* and every product should *inspire trust*.
+💎 **Philosophy:**
+I don't follow trends — I **architect them**. Every line of code should *breathe purpose* and every product should *inspire trust*.
 
 ---
 
@@ -46,10 +44,10 @@ I don’t follow trends — I **architect them**. Every line of code should *bre
 ### 🧩 My Core Beliefs
 
 <div align="center">
-  
+
 | 💭 Philosophy | 🧠 Principle | ⚡ Drive |
 |:--:|:--:|:--:|
-| Simplicity is the highest form of sophistication. | Code should be self-explanatory and secure. | Innovation is not optional — it’s instinct. |
+| Simplicity is the highest form of sophistication. | Code should be self-explanatory and secure. | Innovation is not optional — it's instinct. |
 
 </div>
 
@@ -58,17 +56,17 @@ I don’t follow trends — I **architect them**. Every line of code should *bre
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Zihadx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00F5D4&title_color=00F5D4" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihadx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00F5D4&title_color=00F5D4" height="170" />
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Zihadx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00F5D4&title_color=00F5D4" height="170" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihadx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00F5D4&title_color=00F5D4" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihadx&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="180" />
+
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://nzihad.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" /></a>
@@ -78,7 +76,7 @@ I don’t follow trends — I **architect them**. Every line of code should *bre
 
 ---
 
-<h4 align="center">✨ “Turning ideas into impactful digital experiences.” ✨</h4>
+<h4 align="center">✨ "Turning ideas into impactful digital experiences." ✨</h4>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
