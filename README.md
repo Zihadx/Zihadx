@@ -69,9 +69,9 @@ I don't follow trends — I **architect them**. Every line of code should *breat
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://nzihad.netlify.app" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://nzihad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/nur-zihad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nurzihad.info@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nurzihad.me@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
